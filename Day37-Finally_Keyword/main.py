@@ -1,6 +1,6 @@
 def func1():
   try:
-    l = [1, 5, 6, 7]
+    l = [3, 5, 6, 7]
     i = int(input("Enter the index: "))
     print(l[i])
     return 1
